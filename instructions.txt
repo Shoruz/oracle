@@ -1,0 +1,66 @@
+##### Creating VCN and Subnet (optional) #####
+
+Destination CIDR Block - 0.0.0.0/0
+
+##### Editing Bot.py File in the script #####
+
+for boot volume users - oci.core.models.InstanceSourceViaBootVolumeDetails(source_type="bootVolume", boot_volume_id=imageId)
+
+custom boot volume size - ,boot_volume_size_in_gbs=65
+
+##### Creating GitHub Account and GitHub Repository #####
+
+github signup link - https://github.com/signup
+
+##### Running Script #####
+
+### Windows ###
+
+Python download link - https://www.python.org/
+
+opening command prompt - cmd
+
+install requests Python Package - pip install requests
+
+install oci python package - pip install oci
+
+script starting - python bot.py
+
+### Linux ###
+
+get root access - sudo -i
+
+update packages - apt-get update -y && apt-get upgrade -y
+
+install python3,pip,screen and git - apt-get install python3 -y && apt-get install python3-pip -y && apt-get install screen -y && apt-get install git -y
+
+install python packages - pip install requests && pip install oci
+
+# fix error #
+
+first - apt-get remove python3-pip -y && wget https://bootstrap.pypa.io/get-pip.py && python3 get-pip.py && sudo reboot
+
+get root access first
+
+second - pip install pyopenssl --upgrade
+----------------------------------------------------------------------------------------------
+
+copy GitHub repository - git clone ******
+
+find copied folder - ls
+
+go to folder - cd ******
+
+test script - python3 bot.py
+
+make screen - screen
+
+run script - python3 bot.py
+
+go to screen again - screen -r
+
+##### Other Option For Running Script #####
+
+telegram group - https://t.me/+3uqD7yCFngMxODI1
+
+discord group - https://discord.gg/jJfBh8cEQG

@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaaulkc7xjf5eqmdahwwo23ql65yf2m2747hfzc6ectbaokzmbum4ea
+fingerprint=53:7d:28:b5:00:ca:d8:f5:fa:1f:93:39:91:3e:ef:b1
+tenancy=ocid1.tenancy.oc1..aaaaaaaauhlzuicirybc34zvavp73doi4vqqanddv42rfpo4po42vct4yoka
+region=sa-saopaulo-1
+key_file=nahuealegre22@gmail.com_2023-05-23T18_36_09.533Z.pem
